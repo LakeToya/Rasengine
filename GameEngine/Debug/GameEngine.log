@@ -1,0 +1,7 @@
+﻿  Sprite.cpp
+e:\visual studio 2015\projects\gameengine\gameengine\sprite.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\visual studio 2015\projects\gameengine\gameengine\sprite.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\visual studio 2015\projects\gameengine\gameengine\sprite.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\visual studio 2015\projects\gameengine\gameengine\sprite.cpp(29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameEngine.vcxproj -> E:\Visual Studio 2015\Projects\GameEngine\Debug\GameEngine.exe
+  GameEngine.vcxproj -> E:\Visual Studio 2015\Projects\GameEngine\Debug\GameEngine.pdb (Partial PDB)

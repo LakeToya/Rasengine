@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Sprite.cpp
+c:\users\jason\documents\visual studio 2015\projects\gameengine\gameengine\sprite.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  IOManager.cpp
+  ImageLoader.cpp
+c:\users\jason\documents\visual studio 2015\projects\gameengine\gameengine\gltexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  GLSLProgram.cpp
+c:\users\jason\documents\visual studio 2015\projects\gameengine\gameengine\glslprogram.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  GameEngine.cpp
+c:\users\jason\documents\visual studio 2015\projects\gameengine\gameengine\gameengine.cpp(7): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Game.cpp
+c:\users\jason\documents\visual studio 2015\projects\gameengine\gameengine\sprite.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Errors.cpp
+c:\users\jason\documents\visual studio 2015\projects\gameengine\gameengine\errors.cpp(7): fatal error C1083: Cannot open include file: 'SDL/SDL.h': No such file or directory
+  Generating Code...
